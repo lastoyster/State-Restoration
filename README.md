@@ -1,4 +1,5 @@
-Restoring previous state in flutter best explained in this blog: 
+Restoring previous state in flutter
+Best explained in this blog: 
 https://hrishikeshpathak.com/blog/flutter-state-restoration/ 
 
 This project is a starting point for a Flutter application.
