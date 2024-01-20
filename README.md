@@ -1,14 +1,5 @@
-# Flutter app in Zapp!
-
-A new Flutter project built with Zapp!
-
-----
-
-> To learn how to use Zapp! check out the [documentation](https://docs.zapp.run)
-
-----
-
-## Getting Started
+Restoring previous state in flutter best explained in this blog: 
+https://hrishikeshpathak.com/blog/flutter-state-restoration/ 
 
 This project is a starting point for a Flutter application.
 
